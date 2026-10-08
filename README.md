@@ -23,7 +23,7 @@ Se modificó la configuración del motor para desactivar procesos pesados que as
 
 ## 🚀 Resultados de Rendimiento
 
-Con estos ajustes aplicados al juego base, un sistema con un **AMD Ryzen 5 5600G (Vega 7 APU)** pasa de sufrir cuellos de botella severos en la GPU y tirones de cámara, a mantener un flujo constante de **144 FPS**, haciendo que la experiencia de alta velocidad del juego sea verdaderamente jugable.
+Con estos ajustes aplicados al juego base, cualquier sistema low/mid pasa de sufrir cuellos de botella severos en la GPU y tirones de cámara, a mantener un flujo constante de **144 FPS**, haciendo que la experiencia de alta velocidad del juego sea verdaderamente jugable.
 
 ## ⚠️ Problemas Conocidos y Advertencias (Hardware / Drivers)
 
